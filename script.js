@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Block ad on http://www.navratdoreality.com/index.php
 // @author       Horkyze
-// @match        http://www.navratdoreality.com/index.php
+// @match        http://www.navratdoreality.com/*
 // @grant        none
 // ==/UserScript==
 /* jshint -W097 */
